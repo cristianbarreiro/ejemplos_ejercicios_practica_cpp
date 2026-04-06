@@ -3,6 +3,9 @@
 &n = La direccion de n
 *n = la variable cuya dirección está almacenada en n
 
+
+g++ pointers.cpp -o pointers -lncurses
+
 */
 
 #include <iostream>
